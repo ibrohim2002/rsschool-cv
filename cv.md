@@ -21,6 +21,7 @@ Phone number : +998 99 800 87 77
 ## Currently
 
 IUT second course student
+Study RSschool js-stage#1
 
 <hr>
 
