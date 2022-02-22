@@ -37,6 +37,7 @@ Study RSschool js-stage#1
 <pre>
 C++         +oooo
 Java        ++ooo
+Javascript  +++oo
 HTML/CSS    ++++o
 
 </pre>
